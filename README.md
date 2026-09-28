@@ -1,2 +1,2 @@
 # Delta-Demo
-this id a demo repo to learn github
+this id a demo repo to learn GitHub. and this time I am learning about commits in github.
